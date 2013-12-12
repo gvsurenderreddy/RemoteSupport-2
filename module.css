@@ -1,0 +1,20 @@
+#wrapper
+{
+    width: 250px;
+    margin: 0 auto;
+}
+
+.txt
+{
+    width: 120px;
+}
+
+.ddl
+{
+    width: 120px;
+}
+
+td
+{
+    vertical-align: central;
+}
